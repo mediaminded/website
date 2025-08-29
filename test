@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Page Title</title>
-<link rel="stylesheet" href="https://github.com/mediaminded/website/blob/730cb6b257be3178195fd25b9d79c8747b6c8a30/testcsss">
+<link rel="stylesheet" href="testcss.css">
 </head>
 <body>
 
